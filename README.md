@@ -1,3 +1,3 @@
 # apnacollege-demo
 This is my first Git repository
-Author- Drishti Goel
+Author- Drishti _Goel_
